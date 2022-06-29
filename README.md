@@ -4,3 +4,4 @@ Le but est de répondre à la problématique : <br />
 
 **Parmis les Exoplanets connus, lesquelles se rapproche le plus de la Terre (masse, poids, etc) et pourraient être habitable**
 
+Les données sont issue de [https://data.opendatasoft.com](https://data.opendatasoft.com/explore/dataset/exoplaneteu_catalog-1%40datastro/table/?flg=fr&sort=updated&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJwaWUiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6Im1hc3MiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiJyYW5nZS1SZFlsR24iLCJwb3NpdGlvbiI6ImNlbnRlciJ9XSwieEF4aXMiOiJkZXRlY3Rpb25fdHlwZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6IiIsInNvcnQiOiJzZXJpZTEtMSIsInNlcmllc0JyZWFrZG93biI6IiIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoiZXhvcGxhbmV0ZXVfY2F0YWxvZy0xQGRhdGFzdHJvIiwib3B0aW9ucyI6eyJmbGciOiJmciIsInNvcnQiOiJ1cGRhdGVkIn19fV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9).
